@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>se.enbohms</groupId>
   <artifactId>wildfly-wiremock-service</artifactId>
-  <version>2017.10.1</version>
+  <version>2017.11.0</version>
   <packaging>war</packaging>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
